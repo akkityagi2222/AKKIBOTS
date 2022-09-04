@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="AKKI Logo">
-</p>
+
 <h1 align="center">
   <b>MANU - UserBot</b>
 </h1>
